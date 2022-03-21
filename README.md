@@ -15,7 +15,7 @@ This project shows how the gateway can be used to track BLE devices. One ESP32 i
 BLE devices and forwards messages with device information over the serial line to the other ESP32.
 That other ESP32 is connected over WiFi to a MQTT broker, to where it will send the device messages.
 
-![Architecture](/resources/Architecture.png)
+![Architecture](/resources/ArchitectureBLE.png)
 
 
 ## Building the project
